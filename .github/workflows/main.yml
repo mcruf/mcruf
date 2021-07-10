@@ -2,7 +2,6 @@ name: Generate-Fancy-Snake-Header
 description: "Generates a snake game from a github user contributions grid. Output the animation as gif or svg"
 author: "platane"
 
-
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
