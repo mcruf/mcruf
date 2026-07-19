@@ -1,2 +1,2 @@
-###  Hey there, I'm Marie-Christine :wave:
+###  Hey there! :wave:
 
